@@ -32,8 +32,6 @@ This project focuses on advancing Natural Language Generation (NLG) techniques t
 - **Improved BLEU:** With the inclusion of the token-wise LSTM discriminator, we achieved an additional gain of 1.58 points in the BLEU score. This enhancement underscores the effectiveness of our approach.
 
 
-## Getting Started
+## Contact
+For any queries or suggestions, please reach out to me at:vishalpanda10@gmail.com.
 
-To reproduce our results or build upon our work, follow these steps:
-
-1. **Clone the Repository:**
