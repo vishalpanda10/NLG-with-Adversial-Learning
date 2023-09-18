@@ -1,18 +1,9 @@
-Tranformer based on https://github.com/IpsumDominum/Pytorch-Simple-Transformer
-
-Data for WMT2014 https://www.statmt.org/europarl/v7/fr-en.tgz
 
 
 
 # Adversarial Learning in Natural Language Generation
 
 ## Overview
-
-- **Project Duration:** August 2023 - Present (Ongoing)
-- **Previous Phase:** February 2023 - April 2023
-
-## Project Description
-
 This project focuses on advancing Natural Language Generation (NLG) techniques through the integration of cutting-edge technologies, specifically Transformers and Generative Adversarial Networks (GANs). The goal is to develop a state-of-the-art NLG system capable of generating highly fluent and contextually relevant text.
 
 ## Achievements
@@ -25,6 +16,11 @@ This project focuses on advancing Natural Language Generation (NLG) techniques t
 
 - **WMT 2016 English-German Data:** Our NLG system has demonstrated remarkable performance on the WMT 2016 English-German dataset, surpassing existing benchmarks.
 
+  Tranformer based on https://github.com/IpsumDominum/Pytorch-Simple-Transformer
+
+  Data for WMT2014 https://www.statmt.org/europarl/v7/fr-en.tgz
+
+
 - **BLEU Score:** We achieved an impressive BLEU score of 29.74, indicating the high quality and fluency of the generated text.
 
 - **METEOR Score:** Our system also excelled in terms of METEOR, achieving a score of 62.62, demonstrating the system's ability to generate text that is highly relevant to the context.
@@ -35,15 +31,6 @@ This project focuses on advancing Natural Language Generation (NLG) techniques t
 
 - **Improved BLEU:** With the inclusion of the token-wise LSTM discriminator, we achieved an additional gain of 1.58 points in the BLEU score. This enhancement underscores the effectiveness of our approach.
 
-## Repository Structure
-
-Our project repository is organized as follows:
-
-- **Extra_Scripts:** Contains any additional scripts or utilities used during development.
-- **Discriminator:** Includes code related to the token-wise LSTM discriminator.
-- **Dataset:** Contains datasets used for training and evaluation.
-- **Transformer:** Houses code and models related to the Transformer architecture.
-- **README.md:** The file you are currently reading, providing an overview of the project.
 
 ## Getting Started
 
